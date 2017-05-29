@@ -3,12 +3,8 @@
 Every Alcohol Percentage allows you to check ABV, alcohol percentage by volume, of all your favorite liquors, beers, and wine. Sort by alcohol percentage, search for your selections, and save all of your favorites.
 
 ![Beer list](https://c1.staticflickr.com/5/4250/34958051585_3d14e26f19.jpg "Beer list")
-![Favorites list](https://lh3.googleusercontent.com/OpGhwYrpwK9pviT-gEAYqXe8xE2Ge4qkV2XMOeMo1QaJTjxKGgokm1AmnMYBwZl6bnVf=h900-rw "Favorites List")
-![Searching list](https://lh3.googleusercontent.com/mlAYHnB01jGWdma1NF2XLjA0GgoATzFN3_9KEVr26CLQ6Z07Z6iae_mqflTV6PstR24=h900-rw "Searching list")
-
-<img src = "https://lh3.googleusercontent.com/3BR4yBn8TT-8626ebljOdDseF6S7dmicy0wABaP--QE4Gypo0wHFmYBXvltb_-rN7I4=h900-rw" height="350" width="200"/>
-<img src = "https://lh3.googleusercontent.com/OpGhwYrpwK9pviT-gEAYqXe8xE2Ge4qkV2XMOeMo1QaJTjxKGgokm1AmnMYBwZl6bnVf=h900-rw" height="350" width="200"/>
-<img src = "https://lh3.googleusercontent.com/mlAYHnB01jGWdma1NF2XLjA0GgoATzFN3_9KEVr26CLQ6Z07Z6iae_mqflTV6PstR24=h900-rw" height="350" width="200"/>
+![Favorites list](https://c1.staticflickr.com/5/4226/34917682296_a514cbbcce.jpg "Favorites List")
+![Searching list](https://c1.staticflickr.com/5/4246/34794167912_6dda578778.jpg "Searching list")
 
 ### Support or Contact
 
