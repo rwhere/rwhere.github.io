@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/rwhere/rwhere.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Every Alcohol Percentage allows you to check ABV, alcohol percentage by volume, of all your favorite liquors, beers, and wine. Sort by alcohol percentage, search for your selections, and save all of your favorites.
+          
 
 [Link](url) and ![Image](src)
+
+<img src = "https://lh3.googleusercontent.com/3BR4yBn8TT-8626ebljOdDseF6S7dmicy0wABaP--QE4Gypo0wHFmYBXvltb_-rN7I4=h900-rw" height="400" width="250"></img>
+<img src = "https://lh3.googleusercontent.com/OpGhwYrpwK9pviT-gEAYqXe8xE2Ge4qkV2XMOeMo1QaJTjxKGgokm1AmnMYBwZl6bnVf=h900-rw" height="400" width="250"></img>
+<img src = "https://lh3.googleusercontent.com/mlAYHnB01jGWdma1NF2XLjA0GgoATzFN3_9KEVr26CLQ6Z07Z6iae_mqflTV6PstR24=h900-rw" height="400" width="250"></img>
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rwhere/rwhere.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://www.w3schools.com">Google Play Store</a><br>
+<a href="https://www.w3schools.com">Github URL</a><br>
