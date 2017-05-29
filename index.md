@@ -8,5 +8,6 @@ Every Alcohol Percentage allows you to check ABV, alcohol percentage by volume, 
 
 ### Support or Contact
 
-[Google Play Store](https://play.google.com/store/apps/details?id=com.cs499.ryan.everyalcoholpercentage&hl=en) <br>
+[Google Play Store](https://play.google.com/store/apps/details?id=com.cs499.ryan.everyalcoholpercentage&hl=en)
+
 [Github](https://github.com/rwhere/EveryAlcoholPercentage)
