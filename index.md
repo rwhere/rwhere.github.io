@@ -2,7 +2,7 @@
 
 Every Alcohol Percentage allows you to check ABV, alcohol percentage by volume, of all your favorite liquors, beers, and wine. Sort by alcohol percentage, search for your selections, and save all of your favorites.
 
-![Beer list](http://tinypic.com/r/2mmsuva/9 "Beer list")
+![Beer list](https://c1.staticflickr.com/5/4250/34958051585_3d14e26f19.jpg "Beer list")
 ![Favorites list](https://lh3.googleusercontent.com/OpGhwYrpwK9pviT-gEAYqXe8xE2Ge4qkV2XMOeMo1QaJTjxKGgokm1AmnMYBwZl6bnVf=h900-rw "Favorites List")
 ![Searching list](https://lh3.googleusercontent.com/mlAYHnB01jGWdma1NF2XLjA0GgoATzFN3_9KEVr26CLQ6Z07Z6iae_mqflTV6PstR24=h900-rw "Searching list")
 
